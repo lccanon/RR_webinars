@@ -43,7 +43,6 @@ this [[https://pad.inria.fr/p/BQnJjEIwADQpPM1Q][pad]]* that we will keep for the
    - Grenoble: Arnaud Legrand
    - Bordeaux: Luka Stanisic
    - Rennes: Martin Quinson
-   - Besançon: Louis-Claude Canon
 ** Locations
    - Grenoble: [[https://www.google.fr/maps/place/45%25C2%25B011'26.5%2522N+5%25C2%25B046'02.6%2522E/@45.1907069,5.7668488,19z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d45.190706!4d5.767396][Imag Amphitheater]] on Campus
 * Practical Session Requirements
